@@ -1,4 +1,4 @@
-# A chat app with AI chat Integration
+# Bind a chat app with AI chat bot integration
 
 Welcome to Bind, the next-generation chat application that harnesses the power of AI to enhance your messaging experience. By integrating GPT models such as Claud 3, Bind delivers an innovative platform where users can interact with AI-driven chatbots, Interact with other users, receive instant, intelligent responses, and enjoy a wide range of automated functionalities.
 
