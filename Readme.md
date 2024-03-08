@@ -12,7 +12,7 @@ Welcome to Bind, the next-generation chat application that harnesses the power o
 
 ## Getting Started
 
-To get started with ChatApp, follow these simple steps:
+To get started with Bind, follow these simple steps:
 
 ### Installation
 
