@@ -20,6 +20,6 @@ To get started with Bind, follow these simple steps:
 
 2. Click help if you are confused or join room id 1 for feedback or questions
 
-3. ### Updates
+### Updates
 
-4. Added TTS(text to speech) and STT (speech to text)
+Added TTS(text to speech) and STT (speech to text)
