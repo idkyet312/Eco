@@ -6,9 +6,9 @@ Welcome to Bind, the next-generation chat application that harnesses the power o
 
 - **AI-Powered Conversations**: Engage with smart chatbots powered by Claud 3 etc for fun, information, or assistance.
 - **Real-Time Messaging**: Instantly send and receive messages with individuals or groups.
-- **Customizable Chatbots**: Tailor the AI's tone, style, and knowledge base according to your preferences or needs.(Coming later)
+- **Customizable Chatbots**: Tailor the AI's tone, style, and knowledge base according to your preferences or needs. (Coming later)
 - **Secure & Private**: End-to-end encryption ensures your conversations stay private.
-- **Multi-Platform Support**: Access ChatApp on various devices, ensuring you stay connected anywhere.(Coming later)
+- **Multi-Platform Support**: Access ChatApp on various devices, ensuring you stay connected anywhere. (Coming later)
 
 ## Getting Started
 
