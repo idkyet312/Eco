@@ -16,6 +16,6 @@ To get started with ChatApp, follow these simple steps:
 
 ### Installation
 
-1. Down the Zip and install (Going to be on the playstore soon)
+1. Download the Zip and install (Going to be on the playstore soon)
 
-2. Click help is you are confused or join room id 1 for feedback or questions
+2. Click help if you are confused or join room id 1 for feedback or questions
