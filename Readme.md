@@ -19,3 +19,7 @@ To get started with Bind, follow these simple steps:
 1. Download the Zip and install (Going to be on the playstore soon)
 
 2. Click help if you are confused or join room id 1 for feedback or questions
+
+3. ### Updates
+
+4. Added TTS(text to speech) and STT (speech to text)
