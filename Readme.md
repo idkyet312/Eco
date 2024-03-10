@@ -24,4 +24,4 @@ To get started with Bind, follow these simple steps:
 
 --- Added TTS(text to speech) and STT (speech to text)
 
---- Added an App ecosystem
+--- Added an App ecosystem (10/3/2024)
