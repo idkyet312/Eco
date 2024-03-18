@@ -27,3 +27,11 @@ To get started with Bind, follow these simple steps:
 --- Added an App ecosystem (10/3/2024)
 
 --- Added gpt 3.5 turbo and gpt 4 and gpt 4 turbo
+
+--- Added Infinite mind to the ecosystem (a infinite generated text adventure game with an ai generating the sounds and images for it in realtime with voice to voice input/outputs) (19/03/2024)
+
+--- Added a youtube browser for the group chat (WIP)
+
+--- Added the first mini game in the ecosystem spacekiller (WIP)
+
+--- Added a new app which is gonna be focused around the idea of "your wrong" put in an idea and it will try to disprove you but also put you into chats which have the same idea as you and also the opposite(rated on a -5 to +5 scale) (WIP) 
