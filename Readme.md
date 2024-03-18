@@ -28,7 +28,7 @@ To get started with Bind, follow these simple steps:
 
 --- Added gpt 3.5 turbo and gpt 4 and gpt 4 turbo
 
---- Added Infinite mind to the ecosystem (a infinite generated text adventure game with an ai generating the sounds and images for it in realtime with voice to voice input/outputs) (19/03/2024)
+--- Added Infinite mind to the ecosystem (an infinite generated text adventure game with an ai generating the sounds and images for it in realtime with voice to voice input/outputs) (19/03/2024)
 
 --- Added a youtube browser for the group chat (WIP)
 
