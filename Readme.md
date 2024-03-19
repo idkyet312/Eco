@@ -35,3 +35,7 @@ To get started with Bind, follow these simple steps:
 --- Added the first mini game in the ecosystem spacekiller (WIP)
 
 --- Added a new app which is gonna be focused around the idea of "your wrong" put in an idea and it will try to disprove you but also put you into chats which have the same idea as you and also the opposite(rated on a -5 to +5 scale) (WIP) 
+
+--- Added multiplayer to the text adventure Infinte mind app and fixed some bugs with it (background sound volume, text bug, connecting the multiplayer to keep the game state for all)
+
+--- Changed the UI
