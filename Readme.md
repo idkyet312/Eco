@@ -1,10 +1,10 @@
-# Bind a chat app with AI chat bot integration
+# Eco a chat app with AI chat bot integration
 
 update 21/03/2024
 
 ![Screenshot_20240320_125730_Bind](https://github.com/idkyet312/BindChat/assets/160145816/328fd376-f2fc-4f04-a5f4-e5f7471e3c40)
 
-Welcome to Bind, the next-generation chat application that harnesses the power of AI to enhance your messaging experience. By integrating chat bot models such as Claud 3, Bind delivers an innovative platform where users can interact with AI-driven chatbots, Interact with other users, receive instant, intelligent responses, and enjoy a wide range of automated functionalities.
+Welcome to Eco, the next-generation chat application that harnesses the power of AI to enhance your messaging experience. By integrating chat bot models such as Claud 3, Eco delivers an innovative platform where users can interact with AI-driven chatbots, Interact with other users, receive instant, intelligent responses, and enjoy a wide range of automated functionalities.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to Bind, the next-generation chat application that harnesses the power o
 
 ## Getting Started
 
-To get started with Bind, follow these simple steps:
+To get started with Eco, follow these simple steps:
 
 ### Installation
 
